@@ -1,0 +1,5 @@
+ncc.hateblo.jp:
+  username: ncc-log
+  password: <API-KEY>
+default:
+  local_root: ./ncc.hateblo.jp
